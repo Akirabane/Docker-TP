@@ -50,7 +50,7 @@ Un réseau Docker est créé pour permettre la communication entre les conteneur
 
 ## Livrables
 
-- **Dépôt Git :** [Lien vers le dépôt Git](lien_vers_le_depot_git)
+- **Dépôt Git :** [Lien vers le dépôt Git](https://github.com/Akirabane/Docker-TP/tree/main)
 - **Document Expliquatif :** Consultez le fichier `README.md` pour des détails sur la dockerisation du projet.
 
 N'hésitez pas à ajuster cette documentation en fonction des spécificités de votre projet.
